@@ -1,0 +1,22 @@
+{
+  "name": "webpack-loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.18.2",
+    "@babel/preset-env": "7.18.2",
+    "@types/webpack": "^5.28.4",
+    "babel-loader": "^8.2.5",
+    "webpack": "5.72.1",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.9.0"
+  },
+  "dependencies": {
+    "@rspack/cli": "^0.3.11",
+    "@rspack/core": "^0.3.11",
+    "css-loader": "^6.8.1",
+    "mini-css-extract-plugin": "^2.7.6",
+    "style-loader": "^3.3.3"
+  }
+}

@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log({logo:"home-modules_RkfcG"})})();

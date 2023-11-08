@@ -1,0 +1,1 @@
+{"version":3,"file":"home.css","sources":["./app/home.modules.css"],"sourcesContent":[".logo {\n  color: red;\n  background-iamge: url('/logo.png');\n}\n"],"names":[],"mappings":"AAAA,CAAC,UAAI,AAAC,CAAC,AACL,KAAK,CAAE,GAAG,CACV,gBAAgB,CAAE,GAAG,CAAC,SAAW,CACnC"}
